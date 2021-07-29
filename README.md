@@ -2,6 +2,8 @@
 
 ![Architectuurschets](https://raw.githubusercontent.com/Algoritmeregister/algoritmeregister-prototype/main/algoreg.jpeg)
 
+![Events storage-schets](https://raw.githubusercontent.com/Algoritmeregister/algoritmeregister-prototype/main/eventsstorage.jpeg)
+
 ## App
 
 https://github.com/Algoritmeregister/algoritmeregister-prototype-app
