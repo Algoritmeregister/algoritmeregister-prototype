@@ -2,7 +2,7 @@
 
 ![Architectuurschets](https://raw.githubusercontent.com/Algoritmeregister/algoritmeregister-prototype/main/algoreg.jpeg)
 
-![Events storage-schets](https://raw.githubusercontent.com/Algoritmeregister/algoritmeregister-prototype/main/eventsstorage.jpeg)
+![Events storage-schets](https://raw.githubusercontent.com/Algoritmeregister/algoritmeregister-prototype/main/eventsstorage.jpg)
 
 ## App
 
